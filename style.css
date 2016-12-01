@@ -182,12 +182,15 @@ footer p{
     position: relative;
     margin-right: 99px;
 }
+.testimonial_container h2{
+    color: #005382;
+}
 .large_quotation{
     position: absolute;
     font-size: 246px;
     top: -100px;
     left: -50px;
-    color: rgba(121, 121, 121, 0.47);
+    color: rgba(22, 113, 165, 0.51);
 }
 .right_photo_container{
     width: 500px;
